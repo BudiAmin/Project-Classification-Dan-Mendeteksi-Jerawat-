@@ -13,25 +13,8 @@ Untuk menjalankan kode ini, Anda perlu menginstal beberapa dependensi berikut:
 ## Anda dapat menginstal semua dependensi ini menggunakan pip:
 ```bash
 pip install opencv-python numpy scikit-image matplotlib
-Cara Menggunakan
-Clone repository ini ke mesin lokal Anda:
-bash
-Salin kode
+
+## Clone repository ini:
+```bash
 git clone https://github.com/BudiAmin/Project-Classification-Dan-Mendeteksi-Jerawat-.git
-Navigasikan ke direktori project:
-bash
-Salin kode
-cd Project-Classification-Dan-Mendeteksi-Jerawat-
-Jalankan file Code.py:
-bash
-Salin kode
-python Code.py
-Pilih file gambar atau video yang ingin Anda analisis melalui dialog file yang muncul.
-Salin kode
-
-Silakan tambahkan informasi lain jika diperlukan!
-
-
-
-
 
