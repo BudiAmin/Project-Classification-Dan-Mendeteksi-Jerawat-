@@ -1,21 +1,30 @@
-Project Deteksi Jerawat dan Klasifikasi Kondisi Kulit
-Proyek ini adalah implementasi dari deteksi jerawat pada gambar dan video menggunakan OpenCV, skimage, dan Tkinter. Proyek ini dirancang untuk menganalisis kondisi kulit berdasarkan jumlah dan luas jerawat yang terdeteksi pada gambar atau video yang diberikan.
+## Project Classification dan Mendeteksi Jerawat
+Repository ini berisi kode untuk mendeteksi jerawat dan mengklasifikasikan kondisi kulit menggunakan OpenCV dan Skimage. Proyek ini memungkinkan pengguna untuk memuat file gambar atau video, menganalisisnya untuk mendeteksi jerawat, dan menampilkan hasilnya.
 
-Fitur
-Memuat gambar atau video untuk analisis.
-Deteksi jerawat pada gambar menggunakan metode deteksi tepi dan segmentasi.
-Klasifikasi kondisi kulit berdasarkan jumlah dan luas jerawat.
-Tampilkan hasil deteksi dan klasifikasi pada gambar atau video.
-Prasyarat
-Pastikan Anda telah menginstal semua dependensi yang diperlukan sebelum menjalankan kode ini. Anda dapat menginstalnya menggunakan pip:
+## Persyaratan
+Untuk menjalankan kode ini, Anda perlu menginstal beberapa dependensi berikut:
 
+1. OpenCV
+2. Numpy
+3. Scikit-Image
+4. Matplotlib
+5. Tkinter
+
+## Anda dapat menginstal semua dependensi ini menggunakan pip:
 bash
-Salin kode
-pip install opencv-python-headless numpy scikit-image matplotlib
-Cara Penggunaan
-Clone repository ini ke komputer Anda:
+pip install opencv-python numpy scikit-image matplotlib
 
+## Cara Menggunakan
+Clone repository ini ke mesin lokal Anda:
 bash
-Salin kode
 git clone https://github.com/BudiAmin/Project-Classification-Dan-Mendeteksi-Jerawat-.git
+
+## Navigasikan ke direktori project:
+bash
 cd Project-Classification-Dan-Mendeteksi-Jerawat-
+
+## Jalankan file Code.py:
+bash
+python Code.py
+
+## Pilih file gambar atau video yang ingin Anda analisis melalui dialog file yang muncul.
