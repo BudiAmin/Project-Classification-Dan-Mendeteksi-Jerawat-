@@ -13,8 +13,3 @@ Untuk menjalankan kode ini, Anda perlu menginstal beberapa dependensi berikut:
 ## Anda dapat menginstal semua dependensi ini menggunakan pip:
 ```bash
 pip install opencv-python numpy scikit-image matplotlib
-
-## Clone repository ini:
-```bash
-git clone https://github.com/BudiAmin/Project-Classification-Dan-Mendeteksi-Jerawat-.git
-
